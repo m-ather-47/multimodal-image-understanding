@@ -1,0 +1,25 @@
+# .streamlit/config.toml - Streamlit Configuration
+
+[theme]
+primaryColor = "#6366f1"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8fafc"
+textColor = "#1e293b"
+font = "sans serif"
+
+[server]
+maxUploadSize = 50
+port = 8501
+headless = true
+runOnSave = true
+
+[client]
+showErrorDetails = true
+toolbarMode = "viewer"
+
+[logger]
+level = "info"
+
+[webserver]
+runOnSave = true
+allowRunOnSave = true
