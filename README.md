@@ -33,7 +33,7 @@ An AI-powered web app that analyzes uploaded images using Google Gemini to gener
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/multimodal-image-understanding.git
+git clone https://github.com/m-ather-47/multimodal-image-understanding.git
 cd multimodal-image-understanding
 ```
 
